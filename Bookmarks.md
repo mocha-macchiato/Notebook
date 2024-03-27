@@ -3,6 +3,7 @@
 ## Documentation
 
 - The U-Boot Documentation: [https://docs.u-boot.org/](https://docs.u-boot.org/en/latest/index.html)
+- DeviceTree Specification: [https://devicetree-specification.readthedocs.io/](https://devicetree-specification.readthedocs.io/en/v0.2/devicetree-basics.html)
 
 ## Code Learning
 
@@ -24,6 +25,7 @@
 - 检查 IP/DNS: [https://whoer.net/zh](https://whoer.net/zh)
 - Remove Background: [https://www.remove.bg/](https://www.remove.bg/)
 - LaTeX 公式编辑器: [https://www.latexlive.com/](https://www.latexlive.com/)
+- Excalidraw Whiteboard: [https://excalidraw.com/](https://excalidraw.com/)
 
 ## Other Learning
 
