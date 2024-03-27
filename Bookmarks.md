@@ -26,6 +26,9 @@
 - Remove Background: [https://www.remove.bg/](https://www.remove.bg/)
 - LaTeX 公式编辑器: [https://www.latexlive.com/](https://www.latexlive.com/)
 - Excalidraw Whiteboard: [https://excalidraw.com/](https://excalidraw.com/)
+- TrackersList: [https://trackerslist.com/](https://trackerslist.com/)
+- ExplainShell: [https://www.explainshell.com/](https://www.explainshell.com/)
+- Linux-Command: [https://wangchujiang.com/linux-command/](https://wangchujiang.com/linux-command/)
 
 ## Other Learning
 
